@@ -1,0 +1,425 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The apotheosis of the most serene and illustrious monarch, Charles the II with an humble address to His Most Sacred Majesty, King James II : and a poem to the Queen dowager / by Joshua Barnes.</title>
+            <author>Barnes, Joshua, 1654-1712.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31003</idno>
+            <idno type="STC">Wing B867</idno>
+            <idno type="STC">ESTC R24194</idno>
+            <idno type="EEBO-CITATION">08043958</idno>
+            <idno type="OCLC">ocm 08043958</idno>
+            <idno type="VID">40775</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31003)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40775)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1221:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The apotheosis of the most serene and illustrious monarch, Charles the II with an humble address to His Most Sacred Majesty, King James II : and a poem to the Queen dowager / by Joshua Barnes.</title>
+                  <author>Barnes, Joshua, 1654-1712.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>anno domini 1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"As they were printed among the Cambridge poems and now (for the excellency and loyalty of them) by the command of an Honourable Frieud [sic] of the authors, (but without his privity) reprinted."</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40775:1" rendition="simple:additions"/>
+            <p>THE APOTHEOSIS Of the Moſt Serene and Illuſtrious Monarch CHARLS the II.</p>
+            <p>VVith an humble Addreſs to His Moſt Sacred Majeſty King JAMES the II.</p>
+            <p>And a POEM to the Queen Dowager.</p>
+            <p>By <hi>JOSHUA BARNES,</hi> M.A. Fellow of <hi>Emma<g ref="char:EOLhyphen"/>nuel</hi> Colledge in <hi>Cambridge.</hi>
+            </p>
+            <p>As they were Printed among the <hi>Cambridge</hi> Poems: And now, (for the <hi>Excellency</hi> and <hi>Loyalty</hi> of them) by the command of an Honourable Friend of the Authors, (but without his Privity) Reprinted.</p>
+            <p>Anno Domini MDCLXXXV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:40775:2"/>
+            <pb n="3" facs="tcp:40775:2" rendition="simple:additions"/>
+            <head>THE APOTHEOSIS OF THE Moſt SERENE and Moſt Illuſtrious Monarch CHARLES the II. &amp;c.</head>
+            <lg n="1">
+               <head>I.</head>
+               <l>OH! who to Mighty CHARLES His Name</l>
+               <l>Shall rear a Stately never-fading <hi>Frame;</hi>
+               </l>
+               <l>Such as His own Immortal <hi>Worth</hi> requires,</l>
+               <l>To Vye with Long-liv'd <hi>Time,</hi> and kiſs th'E'thereal <hi>Fires?</hi>
+               </l>
+               <l>Oh! who ſhall for that God-like <hi>Monarch</hi> raiſe</l>
+               <l>Poetick <hi>Obeliſks</hi> unto His Praiſe,</l>
+               <l>Firm as His <hi>Soul,</hi> and <hi>Glorious,</hi> as His peaceful Days?</l>
+               <l>
+                  <hi>Fancy,</hi> the <hi>Architect,</hi> muſt now be here.—</l>
+               <l>
+                  <hi>Truth, Hiſtory, Deſcription,</hi> are the beſt</l>
+               <l>For ſuch a work; the <hi>Shop,</hi> my Lab'ring <hi>Breaſt:</hi>
+               </l>
+               <l>But what vaſt <hi>Quarries</hi> of ſtrong <hi>Verſe</hi> appear!</l>
+               <lg type="triplet">
+                  <l>Solid <hi>Marble,</hi> furrow'd <hi>deep,</hi>
+                  </l>
+                  <l>With pointed <hi>Words; Words</hi> that will keep</l>
+                  <l>His <hi>Fame</hi> alive, although His <hi>Body</hi> ſleep!</l>
+               </lg>
+               <l>
+                  <hi>Sincerity</hi> and <hi>Senſe</hi> Cement the <hi>Frame,</hi>
+               </l>
+               <l>And bind the <hi>Junctures</hi> faſt,</l>
+               <pb n="4" facs="tcp:40775:3"/>
+               <l>Temper'd with <hi>Tears,</hi> that from My <hi>Loyal ſorrow</hi> came:</l>
+               <l>Rude, Indigeſted <hi>Grief</hi> doth poliſh all at laſt.</l>
+               <l>On the firm <hi>Baſis</hi> of my <hi>Heart</hi>
+               </l>
+               <l>I have rear'd this Funeral <hi>Pile;</hi>
+               </l>
+               <l>Tho' the <hi>Baſis</hi> ſhakes the while,</l>
+               <l>Tho' <hi>Confuſion</hi> play Her part;</l>
+               <l>Yet even <hi>Confuſion</hi> here expreſſes wondrous <hi>Art.</hi>
+               </l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>Now from the Lofty <hi>Spire</hi> behold!</l>
+               <l>The Sacred <hi>Eagle,</hi> with an <hi>Urne</hi> of <hi>Gold,</hi>
+               </l>
+               <l>Proud of the Noble <hi>Burthen,</hi> flies</l>
+               <l>Tow'rd CHARLES His Native <hi>Skies!</hi>
+               </l>
+               <l>'Tis CHARLES His Generous <hi>Soul,</hi> He bears away;</l>
+               <l>To increaſe the Number of the <hi>Gods</hi> above:</l>
+               <l>Where <hi>He</hi> ſhall view perpetual <hi>Day,</hi>
+               </l>
+               <l>And Drink full <hi>Bowls</hi> of <hi>Bliſs,</hi> and Feaſt on endleſs <hi>Love.</hi>
+               </l>
+               <l>The <hi>Royal Martyr</hi> in a Silver <hi>Cloud</hi>
+               </l>
+               <l>Drawn through the <hi>Shining Ayr,</hi>
+               </l>
+               <l>With Milky <hi>Horſes</hi> in a Golden <hi>Chair;</hi>
+               </l>
+               <l>Met His <hi>Sons</hi> Spirit, and <hi>welcom'd</hi> Him aloud,</l>
+               <l>Commending all His Pious <hi>Care,</hi>
+               </l>
+               <l>His wondrous <hi>Clemency</hi> and <hi>Wiſdom</hi> Great,</l>
+               <l>Wherewith ſo long <hi>He</hi> had ſuſtain'd ſo <hi>vaſt</hi> an <hi>Empires</hi> weight;</l>
+               <l>"My <hi>Son,</hi> My CHARLES, My <hi>Heir</hi> in all that's <hi>Good,</hi>
+               </l>
+               <l>"As well, as in My <hi>Name</hi> and in my <hi>Blood,</hi>
+               </l>
+               <l>"Now <hi>welcom</hi> to theſe Blisful <hi>Bowers;</hi>
+               </l>
+               <l>"VVhere endleſs <hi>Joys</hi> rain down in never-ceaſing <hi>Showers!</hi>
+               </l>
+               <l>"Bleſs'd be that <hi>Providence,</hi> that fix'd Thee on</l>
+               <l>"My once too-long Uſurped <hi>Throne;</hi>
+               </l>
+               <l>"That did thy Sacred <hi>Head</hi> Protect,</l>
+               <l>"From Trayt'rous <hi>Plots</hi> of every diſcontented <hi>Sect;</hi>
+               </l>
+               <l>"And nouriſh'd in Thy Royal <hi>Breaſt</hi>
+               </l>
+               <l>"That Gracious <hi>Soul,</hi> that Love to <hi>Peace</hi> and <hi>Rest,</hi>
+               </l>
+               <l>"VVhich <hi>Hell</hi> reveres, and <hi>Heavenly-Minds</hi> reſpect<g ref="char:punc">▪</g>
+               </l>
+               <pb n="5" facs="tcp:40775:3"/>
+               <l>"Now ſince Thou'ſt Conquer'd all that boyſt'rous Rage</l>
+               <l>"Of Fiery <hi>Zeal,</hi> and Calm'd the troubled Age;</l>
+               <l>"'Tis time to enter theſe <hi>Rewarding Gates,</hi>
+               </l>
+               <l>"And leave thy BROTHER to fulfil His Happier <hi>Fates.</hi>
+               </l>
+               <l>"But ſay, ſay, how does that Our other <hi>Son,</hi>
+               </l>
+               <l>The <hi>Heir</hi> of all Thy <hi>Virtnes</hi> and Thy <hi>Throne,</hi>
+               </l>
+               <l>"My JAMES, even then a <hi>Hopeful Boy,</hi>
+               </l>
+               <l>VVhen I exchang'd a Crown of <hi>Thorns</hi> for Everlaſting <hi>Joy?</hi>
+               </l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>To whom the Second CHARLES reply'd,</l>
+               <l>VVith Calm <hi>Serenity</hi> upon His <hi>Brow,</hi>
+               </l>
+               <l>Glorious as <hi>Heroes</hi> newly <hi>Deify'd,</hi>
+               </l>
+               <l>And <hi>Great</hi> as His Great <hi>FATHER</hi> now;</l>
+               <l>Three times <hi>He</hi> made a lowly <hi>Bow,</hi>
+               </l>
+               <l>And ſaid, (the <hi>Chariot</hi> ſlowly went along</l>
+               <l>Returning tow'rd th' <hi>Angelick</hi> throng,</l>
+               <l>VVho made a ſhining <hi>Lane,</hi> and bow'd and Liſt'ned to His <hi>Song)</hi>
+               </l>
+               <l>"<hi>Father,</hi> I've left th' Illuſtrious JAMES <hi>below,</hi>
+               </l>
+               <l>"Laden with <hi>Triumphs</hi> and His <hi>Peoples Love;</hi>
+               </l>
+               <l>"Full of ſuch <hi>Bliſs</hi> as Mortal <hi>Regions</hi> know</l>
+               <l>"Except that ſad <hi>Alloy,</hi> which My <hi>Deceaſe</hi> did move:</l>
+               <l>"As I <hi>Aſcended</hi> through the <hi>Neither-Air,</hi>
+               </l>
+               <l>"I heard the welcom <hi>Shouts</hi> of loving <hi>Subjects</hi> ring,</l>
+               <l>"VVhile <hi>Officers</hi> with Zealous <hi>Voice</hi> declare,</l>
+               <l>"My Royal <hi>Brother</hi> their Moſt Gracious <hi>King.</hi>
+               </l>
+               <l>"But <hi>Hee,</hi> (for <hi>Souls</hi> can take the ſofteſt <hi>Voice</hi>)</l>
+               <l>"Bemoan'd the <hi>Unſought</hi> Burthen of a <hi>Crown:</hi>
+               </l>
+               <l>"I heard him <hi>ſigh</hi> and ſay, <hi>He</hi> never could rejoyce;</l>
+               <l>Till <hi>He</hi> come up to <hi>Heaven</hi> to <hi>Me;</hi> or I to <hi>Him</hi> go down.</l>
+               <l>"But after all My <hi>Labours, Toyls</hi> and <hi>Cares,</hi>
+               </l>
+               <l>"For <hi>Six</hi> and <hi>Thirty</hi> teadious, rowling <hi>Years,</hi>
+               </l>
+               <l>"Methinks (and ſurely not amiſs)</l>
+               <l>"The <hi>ſhorteſt ſtay,</hi>
+               </l>
+               <l>"On this ſide (tho' in ſight of) <hi>Bliſs</hi>
+               </l>
+               <l>"Is too too long <hi>delay.</hi>
+               </l>
+               <pb n="6" facs="tcp:40775:4"/>
+               <l>"To <hi>Heavens</hi> High <hi>Care</hi> and JAMES His we reſign</l>
+               <l>"Our <hi>Earthly Realms,</hi> and haſt to thoſe that <hi>ſhine</hi>
+               </l>
+               <l>"VVith un-extinguiſh'd <hi>Day,</hi> and flow with Joys <hi>Divine.</hi>
+               </l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>Now th' <hi>Azure</hi> Gates of <hi>Bliſs</hi> expanded wide,</l>
+               <l>Receive the Glorious <hi>Cavalcade;</hi>
+               </l>
+               <l>
+                  <hi>Angels,</hi> like <hi>Lacquyes,</hi> running on each ſide:</l>
+               <l>And wondrous <hi>Tunes</hi> on <hi>David's</hi> Lyre were play'd.</l>
+               <l>And parallel 'tween <hi>CHARLES</hi> and <hi>DAVID</hi> made,</l>
+               <l>In rapt'rous, ſtrange, <hi>Angelick Verſe,</hi>
+               </l>
+               <l>Too <hi>ſtrong</hi> and <hi>High</hi> for <hi>Mortals</hi> to rehearſe!</l>
+               <l>Go! Bleſſed <hi>CHARLES,</hi> receive thoſe <hi>Entertains,</hi>
+               </l>
+               <l>VVorthy thy <hi>Self,</hi> in Noble <hi>Heavenly</hi> ſtrains.</l>
+               <l>
+                  <hi>We,</hi> low and weak and <hi>grovelling</hi> on the <hi>Ground</hi>
+               </l>
+               <l>Will <hi>ſtrive</hi> however to <hi>advance</hi> a <hi>ſound,</hi>
+               </l>
+               <l>That ſhall addreſs to living <hi>JAMES</hi> His <hi>Ear;</hi>
+               </l>
+               <l>And ſure (for <hi>He's</hi> like <hi>CHARLES</hi>) <hi>He</hi> will vouchſafe to <hi>hear.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>ADDRESS TO THE KING.</head>
+            <l>"GReat <hi>JAMES!</hi> whoſe worth portends ſo vaſt a <hi>Good;</hi>
+            </l>
+            <l>"That even thy <hi>Brother</hi>'s loſs is hardly underſtood,</l>
+            <l>"May all the <hi>Glories</hi> of Thine <hi>Houſe</hi> and <hi>Race</hi>
+            </l>
+            <l>"Shine round Thy Sacred <hi>Head,</hi> and kiſs thy Royal <hi>Face!</hi>
+            </l>
+            <l>"And while their <hi>Mercies</hi> Thou do'ſt <hi>Imitate;</hi>
+            </l>
+            <l>"May all their <hi>Thunder</hi> on Thine <hi>Anger</hi> wait!</l>
+            <l>"May all <hi>adore</hi> Thy <hi>Smile</hi> and <hi>Dread</hi> Thee too;</l>
+            <l>"And thoſe be forc'd, who <hi>chooſe</hi> not thus to <hi>do;</hi>
+            </l>
+            <l>"May all thy <hi>Parents</hi> and Thy <hi>Brothers Fame,</hi>
+            </l>
+            <l>"And <hi>Years</hi> Extend Thy <hi>Days,</hi> and <hi>CROWN</hi> Thy <hi>Name!</hi>
+            </l>
+            <pb n="7" facs="tcp:40775:4"/>
+            <l>"May all Their <hi>Virtues</hi> in Thy <hi>Boſome</hi> meet;</l>
+            <l>"And all Their <hi>Treaſures</hi> Couch beneath Thy <hi>Feet!</hi>
+            </l>
+            <l>"May all their <hi>Guardian-Angels</hi> round Thee ſtand;</l>
+            <l>"And all their <hi>Bleſſings</hi> wait on Thy Command!</l>
+            <l>"And may'ſt Thou leave (when Thy long <hi>Life's</hi> reſign'd)</l>
+            <l>"Such matchleſs <hi>Sons,</hi> as Thy Great <hi>Father</hi> left behind!</l>
+            <closer>
+               <signed>
+                  <hi>Joſhua Barns,</hi> M. A. Fellow of <hi>Emmanuel Colledge.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <head>TO THE Queen Dowager.</head>
+            <lg>
+               <l>MAdam, whoſe <hi>Mercies</hi> are ſo <hi>boundleſs</hi> known,</l>
+               <l>That <hi>juſtly</hi> they were match'd with <hi>CHARLES</hi> His own;</l>
+               <l>The <hi>ſole</hi> Good <hi>Queen,</hi> Worthy ſo good a Lord,</l>
+               <l>Who only <hi>equal'd,</hi> whom all elſe <hi>Ador'd:</hi>
+               </l>
+               <l>Gladly to <hi>You</hi> our <hi>Muſe</hi> would <hi>comfort</hi> bring:</l>
+               <l>But ah! what <hi>Comfort</hi> after ſuch a <hi>King?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>VVe'ld Piouſly <hi>Condole,</hi> and lend relief</l>
+               <l>VVith Loyal <hi>Art</hi> to Your Exub'tant <hi>Grief:</hi>
+               </l>
+               <l>But ah! we're drown'd in <hi>Tears,</hi> as well as You!</l>
+               <l>In <hi>CHARLES</hi> His <hi>Death</hi> all <hi>Englands</hi> VVidow'd too.</l>
+            </lg>
+            <lg>
+               <l>You loſt an <hi>Husband</hi> and the beſt that e're</l>
+               <l>Did th' Honourable <hi>Chains</hi> of <hi>Wedlock</hi> wear:</l>
+               <l>Tis true, and ſure Your <hi>Grief</hi> we muſt allow:</l>
+               <l>But we're concern'd, Great <hi>Queen,</hi> as deep as <hi>You!</hi>
+               </l>
+               <l>For <hi>We</hi> the <hi>Beſt</hi> of worthyeſt <hi>Kings</hi> have loſt!</l>
+               <l>No tender <hi>Father</hi> could like <hi>Mercies</hi> boaſt!</l>
+               <l>No <hi>Heart</hi> can Fathom, and no <hi>Tongue</hi> relate</l>
+               <l>Thoſe <hi>Bleſſings</hi> that on <hi>CHARLES</hi> His <hi>Reign</hi> did wait!</l>
+            </lg>
+            <lg>
+               <l>But oh! I've done: For, while to mind I call</l>
+               <l>His God-like <hi>Worth:</hi> The Tears like <hi>Rivers,</hi> fall</l>
+               <pb n="8" facs="tcp:40775:5"/>
+               <l>From Your Bright <hi>Eyes,</hi> half languiſh'd now with <hi>Cares,</hi>
+               </l>
+               <l>Shaded with <hi>Grief</hi> and almoſt quench'd in Tears!</l>
+               <l>Oh! who'ld not <hi>melt,</hi> to ſee ſuch Charming woe:</l>
+               <l>Majeſtick <hi>Sorrows</hi> in ſo ſad a <hi>Show!</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But ah! with <hi>You</hi> we cannot <hi>Sympathis</hi>
+               </l>
+               <l>
+                  <hi>CHARLES</hi> fills our <hi>Hearts,</hi> and flow<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> at our <hi>Eyes:</hi>
+               </l>
+               <l>Nor can <hi>We</hi> lend one <hi>Tear,</hi> Great <hi>Queen</hi> 
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>You;</hi>
+               </l>
+               <l>Nor can we to our <hi>Grief</hi> one <hi>ſigh</hi> allow:</l>
+               <l>
+                  <hi>CHARLES</hi> has engroſt our <hi>Tears;</hi> and all we have,</l>
+               <l>Flow in one groaning <hi>Torrent</hi> tow'rd His <hi>Grave!</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Yet when upon Your <hi>Woes</hi> we caſt an <hi>Eye:</hi>
+               </l>
+               <l>
+                  <hi>Tears</hi> fall more quick, and <hi>Sobs</hi> do beat more high:</l>
+               <l>
+                  <hi>Compaſſion</hi> ſtrives t' exalt Our <hi>Grief</hi> the more,</l>
+               <l>But ſurely That was at the <hi>heigth</hi> before.</l>
+            </lg>
+            <lg>
+               <lg type="triplet">
+                  <l>Yet, Royal <hi>Widow,</hi> this poor ſervice take,</l>
+                  <l>That tho' oppreſt with <hi>Griefs,</hi> no Tongue can ſpeak,</l>
+                  <l>
+                     <hi>We yet at laſt deſire more</hi> SORROW <hi>for</hi> YOUR SAKE:</l>
+               </lg>
+            </lg>
+            <closer>
+               <signed>
+                  <hi>Joſhua Barnes</hi> M. A. Fellow of <hi>Emmanuel</hi> Colledge in <hi>Cambridge.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
